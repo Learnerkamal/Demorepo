@@ -1,3 +1,3 @@
 # Demorepo
 ## My Name is Kamal
-## So it is my first time ltimindtree
+## So it is my first time in ltimindtree
